@@ -5,8 +5,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishekbhardwaj123&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbhardwaj123" /> </p>
 
-- 📫 How to reach me **ab985098@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/abhiishekbhardwaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhiishekbhardwaj/" height="30" width="40" /></a>
